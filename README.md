@@ -16,7 +16,7 @@
 > *All contained code was originally written in 2021 during my time studying Computer Science at the [University of Sheffield](https://www.sheffield.ac.uk/).*
 > *Most non-code related items have been removed, as has the commit history, for public display.*
 >
-> *Original and complete repositories are stored privately in their original location on [GitLab](https://gitlab.com/university-assignments/com3505-internet-of-things).*
+> *Original and complete repositories are stored privately in their original location on [GitLab](https://gitlab.com/university-assignments/com3240-adaptive-intelligence).*
 
 #### ⚠️ Academic Integrity Notice
 >
