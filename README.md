@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-<img src="https://github.com/robbowland/adaptive-intelligence/blob/main/.github/img/heading.png?raw=true" alt="adaptive-intelligence" width="750"></a>
+<img src="https://github.com/robbowland/adaptive-intelligence/blob/main/.github/img/heading.png?raw=true" alt="adaptive-intelligence" width="800"></a>
   <br>
 </h1>
 
